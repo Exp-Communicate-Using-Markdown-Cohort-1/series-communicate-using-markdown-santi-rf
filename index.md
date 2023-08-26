@@ -8,3 +8,7 @@ import xarray as xr
 print('Comprendow')
 
 ```
+
+- [x] Correctow
+- [x] Es Comprendo
+- [ ] Finalizado
